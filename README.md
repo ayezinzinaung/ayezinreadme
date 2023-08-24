@@ -5,9 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ayezinzinaung.com">Aye Zin Zin Aung</a></b>
-        </samp>
+        <samp>&gt; Hey There!, I am Aye Zin Zin Aung</samp>
 </h3>
 <p align="center"> 
   <samp>
