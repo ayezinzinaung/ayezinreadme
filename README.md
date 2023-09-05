@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ayezinzinaung"  />
   </a> 
 </p>
-<br />
+<hr/>
 
 <!-- About Section -->
  # About me
@@ -47,7 +47,7 @@
 </p>
 
 <br/>
-<br/>
+<hr/>
 
 ## Use To Code
 <br/>
@@ -88,6 +88,8 @@
   <img width="12" />
 </div>
 
+<hr/>
+
 ## Top Open Source -
 
 <p align="center">
@@ -104,6 +106,6 @@
 
 <a> 
     <a href="https://github.com/ayezinzinaung"><img alt="Aye Zin Zin Aung Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ayezinzinaung&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ayezinzinaung"><img alt="Aye Zin Zin Aung Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ayezinzinaung&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+    <a href="https://github.com/ayezinzinaung"><img alt="Aye Zin Zin Aung Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ayezinzinaung&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
+<hr/>
